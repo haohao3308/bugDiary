@@ -26,5 +26,5 @@ var b
     var b
 
 <baidu.com>
-<百度>(baidu.com)
+[百度](baidu.com)
 
